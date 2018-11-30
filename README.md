@@ -22,6 +22,6 @@ And I fully understand that, these students in Xian County are already lucky, co
 
 Here are several organizations that I regularly donate to:
 
-* [ShinShin Education Foundation](http://www.shinshinfoundation.org/new_site/index.php/language/en/) [[Donate Now](http://www.shinshinfoundation.org/new_site/index.php/language/en/support-us/donate-now/)]
+* [Shin Shin Education Foundation](http://www.shinshinfoundation.org/new_site/index.php/language/en/) [[Donate Now](http://www.shinshinfoundation.org/new_site/index.php/language/en/support-us/donate-now/)]
 * [Overseas China Education Foundation](http://www.ocef.org/english) [[Donate Now](https://www.ocef.org/english/donation)]
 * [A Life A Time](http://www.alifeatime.org/en/) [[Donate Now](http://www.alifeatime.org/en/help/donate.aspx)]
