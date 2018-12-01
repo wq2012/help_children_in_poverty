@@ -10,7 +10,7 @@ these children lag behind others of their age.
 
 ## Background
 
-In summer 2011, when I was an undergraduate student at [Tsinghua University](http://www.tsinghua.edu.cn), I joined a summer social practice program.
+In summer 2007, when I was an undergraduate student at [Tsinghua University](http://www.tsinghua.edu.cn), I joined a summer social practice program.
 
 In this program, we went to [Xian County](https://en.wikipedia.org/wiki/Xian_County) in Hebei province of China, to train the local teachers, and help the local students. These students were very passionate about learning, even though many of their families were struggling in poverty. Most of these children believe that education will change their lives, while some of them lost hope when their families can no longer support them in school.
 
