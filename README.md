@@ -1,12 +1,11 @@
 # Help children in poverty in China
 
-```
-In rural China, 30 million of the families still live on less than US $1/day.
+> In rural China, 30 million of the families still live on less than US $1/day.
 Children walk several hours through rugged terrain to go to school every day.
 They enter dilapidated classrooms, where four students share a desk,
 and six share one outdated textbook. With substandard learning conditions,
 these children lag behind others of their age.
-```
+
 ![dream_girl](dream_girl.jpg)
 
 ## Background
